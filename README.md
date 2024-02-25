@@ -1,4 +1,4 @@
-# Adafruit Flora Blinking Light
+# Flora Flashing Lights
 ![Adaruit Flora Development board](/images/AdafruitFlora.JPG)
 
 ## Getting started
